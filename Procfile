@@ -1,1 +1,1 @@
-web: gunicorn tic_tac_toe.asgi
+web: gunicorn tic_tac_toe.asgi:application
